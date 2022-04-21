@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "procezor"
-  spec.version      = "0.22.2"
+  spec.version      = "0.22.13"
   spec.summary      = "Salary, Health, Social, Taxing Properties for years 2011-2022"
 
   # This description is used to generate tags and improve search results.
@@ -60,7 +60,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "ladislavlisy" => "info@hravemzdy.org" }
+  spec.author             = { "ladislavlisy" => "greatwork@hravemzdy.org" }
   # Or just: spec.author    = "ladislavlisy"
   # spec.authors            = { "ladislavlisy" => "ladislav.lisy@seznam.cz" }
   # spec.social_media_url   = "https://twitter.com/ladislavlisy"
@@ -88,7 +88,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/mzdyhrave/procezorsw.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/hravemzdy/swift-procezor.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
