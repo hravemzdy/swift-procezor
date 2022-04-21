@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67a64416-0c64-4534-afcd-9a50168fc11f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Git_Tag_Push.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Git_Tag_Push.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,8 @@
       <workItem from="1646397680784" duration="1570000" />
       <workItem from="1650530028266" duration="2543000" />
       <workItem from="1650548229061" duration="1228000" />
-      <workItem from="1650550082381" duration="1699000" />
+      <workItem from="1650550082381" duration="2198000" />
+      <workItem from="1650554191707" duration="723000" />
     </task>
     <servers />
   </component>
