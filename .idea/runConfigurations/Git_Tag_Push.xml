@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Git Tag-Push" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="git tag '$HMORG_VERSION' &amp;&amp; git push origin --tags" />
+    <option name="SCRIPT_TEXT" value="git tag &quot;$HMORG_VERSION&quot; &amp;&amp; git push origin --tags" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
