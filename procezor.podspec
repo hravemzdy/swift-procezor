@@ -35,7 +35,7 @@ Pod::Spec.new do |spec|
                       Go, Kotlin, Scala, Swift, Typescript
                    DESC
 
-  spec.homepage     = "http://hravemzdy.org/legalios"
+  spec.homepage     = "http://hravemzdy.org/procezor"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
